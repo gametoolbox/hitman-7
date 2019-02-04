@@ -1,2 +1,2 @@
-# hitman-7-2018
+# hitman-7
 Hitman 2 (2018) Tools
